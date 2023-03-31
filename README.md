@@ -48,6 +48,6 @@ Configuração:
 
 **Criadora**: Jéssica Caroline Gonçalves de Oliveira
 
-**Email**: jessicaoliveira@ibm.com
+**Email**: jessicadeveloper@hotmail.com
 
 
