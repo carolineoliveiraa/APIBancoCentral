@@ -29,7 +29,7 @@ Pré-requisitos:
 Configuração:
 1. Clonar o repositório do Git para sua máquina local;
 ```shell
-        https://github.ibm.com/jessicaoliveira/taxajuros.git
+        https://github.com/carolineoliveiraa/APIBancoCentral.git
 ```
 2. Entrar no application.properties
 ```shell
